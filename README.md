@@ -1,13 +1,6 @@
 # Tyler-CSI-2300-Cours-Project
-1. Your project name, Tyler B 
-2. Describe what you are trying to build, why do you want to build it, what it
-will be useful for, how it will be used, etc.
-3. (Important) Draw initial UML class diagrams
-Describe what classes/interfaces you will design, their inheritance relationships.
-For each class/interface, list their fields/methods. Draw UML diagrams to show
-these classes/interfaces.
-
+1. Your project name, Tyler Birmingham
+2. I am trying to build a To Do  Task Scheduling App That has a Very Simplistic View To not Overwhelm Users, I wnt TO Build It Becuse I have problems with Other apps Where you have to pay for a month view and Have a view of soon to do Tasks. It will be Useful To Schedul Asignmnts, Taks Mettings, It will allow you to see soon ToDo events at a Glance
+3.![image](https://github.com/user-attachments/assets/b98f8520-6a28-460f-958c-5043f1e9aae5).
 4. Plan and estimate of effort
-Discuss your plan and estimated effort/contribution of each team member
-required to complete the design and implementation of the complete application
-program.
+Coding, Devloping, etc 100% effort By Me
